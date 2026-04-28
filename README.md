@@ -240,8 +240,6 @@ This repository maintains a curated list of research papers on **Large Language 
 | [Towards next-generation recommender systems: A benchmark for personalized recommendation assistant with llms](https://dl.acm.org/doi/abs/10.1145/3773966.3777954) | 2026 | WSDM  | 个性化LLM推荐助手       |
 | [Memory assisted LLM for personalized recommendation system](https://arxiv.org/abs/2505.03824) | 2025 | arXiv | 记忆机制增强个性化推荐  |
 | [Nextquill: Causal preference modeling for enhancing llm personalization](https://arxiv.org/abs/2506.02368) | 2025 | arXiv | 因果建模增强个性化      |
-| [Efficient and effective adaptation of multimodal foundation models in sequential recommendation](https://ieeexplore.ieee.org/abstract/document/11153882/) | 2025 | TKDE  | 多模态基础模型适配      |
-| [Aligning Large Multimodal Model with Sequential Recommendation via Content-Behavior Guidance](https://dl.acm.org/doi/abs/10.1145/3731715.3733273) | 2025 | ICMR  | 多模态对齐增强          |
 | [Agentrecbench: Benchmarking llm agent-based personalized recommender systems](https://arxiv.org/abs/2505.19623) | 2025 | arXiv | Agent 推荐基准          |
 | [Enhancing LLM-Based Recommendations Through Personalized Reasoning](https://ui.adsabs.harvard.edu/abs/2025arXiv250213845L/abstract) | 2025 | arXiv | 个性化推理增强          |
 | [Can Large Language Models Understand Preferences in Personalized Recommendation?](https://arxiv.org/abs/2501.13391) | 2025 | arXiv | 偏好理解能力            |
@@ -291,6 +289,8 @@ This repository maintains a curated list of research papers on **Large Language 
 
 | Title                                                        | Year | Venue  | Brief                  |
 | ------------------------------------------------------------ | ---- | ------ | ---------------------- |
+| [Efficient and effective adaptation of multimodal foundation models in sequential recommendation](https://ieeexplore.ieee.org/abstract/document/11153882/) | 2025 | TKDE  | 多模态基础模型适配      |
+| [Aligning Large Multimodal Model with Sequential Recommendation via Content-Behavior Guidance](https://dl.acm.org/doi/abs/10.1145/3731715.3733273) | 2025 | ICMR  | 多模态对齐增强          |
 | [Mllm4rec: multimodal information enhancing llm for sequential recommendation](https://link.springer.com/article/10.1007/s10844-024-00915-3) | 2025 | JIIS   | 多模态信息增强序列推荐 |
 | [Beyond visit trajectories: enhancing poi recommendation via llm-augmented text and image representations](https://dl.acm.org/doi/abs/10.1145/3705328.3748014) | 2025 | RecSys | 文本+图像增强 POI 推荐 |
 | [Enhanced emotion-aware music recommendation via large language models](https://dl.acm.org/doi/abs/10.1145/3711896.3737212) | 2025 | KDD    | 情绪感知音乐推荐       |
