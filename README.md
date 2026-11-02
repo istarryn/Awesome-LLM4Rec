@@ -311,6 +311,7 @@ Differentiable Semantic ID for Generative Recommendation [code]
 
 | Title                                                        | Year | Venue          | Brief            |
 | ------------------------------------------------------------ | ---- | -------------- | ---------------- |
+| [PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation](https://aclanthology.org/2026.emnlp-main.480/) | 2026 | EMNLP | 关系保真驱动的输入侧隐私保护 |
 | [A federated framework for llm-based recommendation](https://aclanthology.org/2025.findings-naacl.155/) | 2025 | NAACL Findings | 联邦推荐框架     |
 | [FELLAS: Enhancing federated sequential recommendation with LLM as external services](https://dl.acm.org/doi/abs/10.1145/3709138) | 2025 | TOIS           | 联邦序列推荐     |
 | [Preserving privacy and utility in llm-based product recommendations](https://arxiv.org/abs/2505.00951) | 2025 | arXiv          | 隐私保护推荐     |
